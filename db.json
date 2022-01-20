@@ -6,6 +6,72 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "yasmin@gmail.com",
+      "password": "$2a$10$Ri9ySHrdGxpNdNgW7LkPdugTUxxvr1Q4iX8dpFC5u8Nj6XN4.Rdgu",
+      "name": "yasmin martins de brito",
+      "age": 22,
+      "id": 2
     }
+  ],
+  "products": [
+    {
+      "img":"https://imagensemoldes.com.br/wp-content/uploads/2020/05/Figura-Hamburguer-PNG-1280x720.png",
+	    "name":"Hamburgueres",
+	    "category":"Sanduiche",
+	    "price":14.00,
+	    "id":1
+    },
+    {
+      "img":"https://i.pinimg.com/originals/37/41/d6/3741d6779bbaf4631c8e01953e621df7.png",
+	    "name":"Sandubão",
+	    "category":"Sanduiche",
+	    "price":18.00,
+	    "id":2
+    },
+    {
+      "img":"https://produsite.com.br/wp-content/uploads/elementor/thumbs/png-lanches-4-onl858zy9o5k27daohpua8xjpxsv2n9m5qdpwqchj8.png",
+      "name":"Caseiro",
+	    "category":"Sanduiche",
+	    "price":16.00,
+	    "id":3
+    },
+    {
+      "img":"https://www.anuncioemfoco.com.br/imagens/anuncios/250217075140/disk-entrega-delivery-de-lanches-em-santa-veridiana-santa-cruz-rj-46556.png",
+      "name":"Ogro",
+	    "category":"Sanduiche",
+	    "price":29.00,
+	    "id":4
+    },
+    {
+      "img":"",
+      "name":"",
+	    "category":"",
+	    "price":29.00,
+	    "id":4
+    },
+    {
+      "img":"",
+      "name":"",
+	    "category":"",
+	    "price":29.00,
+	    "id":4
+    },
+    {
+      "img":"",
+      "name":"",
+	    "category":"",
+	    "price":29.00,
+	    "id":4
+    },
+    {
+      "img":"",
+      "name":"",
+	    "category":"",
+	    "price":29.00,
+	    "id":4
+    }
+
   ]
 }
