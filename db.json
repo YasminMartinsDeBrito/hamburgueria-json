@@ -45,32 +45,39 @@
 	    "id":4
     },
     {
-      "img":"",
-      "name":"",
-	    "category":"",
-	    "price":29.00,
-	    "id":4
+      "img":"https://i.pinimg.com/originals/e2/dd/c3/e2ddc3a3c22a5140c2ef1d7c84123d96.png",
+      "name":"Pepsi",
+	    "category":"Refrigerante",
+	    "price":5.00,
+	    "id":5
     },
     {
-      "img":"",
-      "name":"",
-	    "category":"",
-	    "price":29.00,
-	    "id":4
+      "img":"https://www.designi.com.br/images/preview/10000394.jpg",
+      "name":"Guarana Antarctica",
+	    "category":"Refrigerante",
+	    "price":4.00,
+	    "id":6
     },
     {
-      "img":"",
-      "name":"",
-	    "category":"",
-	    "price":29.00,
-	    "id":4
+      "img":"https://w7.pngwing.com/pngs/670/980/png-transparent-chocolate-ice-cream-ice-cream-cones-milkshake-sundae-ovaltine-sundae-food-frozen-dessert-parfait.png",
+      "name":"Sunday",
+	    "category":"Sorvete",
+	    "price":8.00,
+	    "id":7
     },
     {
-      "img":"",
-      "name":"",
-	    "category":"",
-	    "price":29.00,
-	    "id":4
+      "img":"https://toppng.com/uploads/preview/h-rated-with-dragmirejr-and-sayan-ice-cream-sundae-115636073668yusvzr7mq.png",
+      "name":"Taca",
+	    "category":"Sorvete",
+	    "price":13.00,
+	    "id":8
+    },
+    {
+      "img":"https://w7.pngwing.com/pngs/763/566/png-transparent-cheeseburger-hamburger-whopper-mcdonald-s-big-mac-fast-food-egg-thumbnail.png",
+      "name":"Sanduba",
+	    "category":"Sanduiches",
+	    "price":20.00,
+	    "id":9
     }
 
   ]
