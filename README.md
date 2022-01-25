@@ -22,3 +22,52 @@ POST /login <br/>
 POST /signin
 
 Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usuários cadastrados na lista de "Users"
+
+
+
+### Os Produtos
+GET /products
+
+
+####exemplo
+{
+    "img": "https://imagensemoldes.com.br/wp-content/uploads/2020/05/Figura-Hamburguer-PNG-1280x720.png",
+    "name": "Hamburgueres",
+    "category": "Sanduiche",
+    "price": 14,
+    "id": 1
+  }
+
+
+### Para o carrinho
+POST / cart
+{
+    "img": "https://imagensemoldes.com.br/wp-content/uploads/2020/05/Figura-Hamburguer-PNG-1280x720.png",
+    "name": "Hamburgueres",
+    "category": "Sanduiche",
+    "price": 14,
+    "id": 1,
+	
+  }
+  
+GET / Cart
+
+{
+    "img": "https://imagensemoldes.com.br/wp-content/uploads/2020/05/Figura-Hamburguer-PNG-1280x720.png",
+    "name": "Hamburgueres",
+    "category": "Sanduiche",
+    "price": 14,
+    "id": 1,
+	
+  }
+  
+  DELETE / cart
+  {
+  {
+    "img": "https://imagensemoldes.com.br/wp-content/uploads/2020/05/Figura-Hamburguer-PNG-1280x720.png",
+    "name": "Hamburgueres",
+    "category": "Sanduiche",
+    "price": 14,
+    "id": 1,
+  }
+
